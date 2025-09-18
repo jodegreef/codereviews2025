@@ -1,0 +1,6 @@
+@ExerciseDownloadController_HostAddress = http://localhost:5292
+
+GET {{ExerciseDownloadController_HostAddress}}/Downlaod/
+Accept: application/json
+
+###

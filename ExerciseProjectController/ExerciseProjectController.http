@@ -1,0 +1,6 @@
+@ExerciseProjectController_HostAddress = http://localhost:5198
+
+GET {{ExerciseProjectController_HostAddress}}/project/
+Accept: application/json
+
+###

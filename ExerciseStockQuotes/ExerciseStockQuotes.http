@@ -1,0 +1,6 @@
+@ExerciseStockQuotes_HostAddress = http://localhost:5186
+
+GET {{ExerciseStockQuotes_HostAddress}}/stockquotes/
+Accept: application/json
+
+###

@@ -1,0 +1,6 @@
+@ExerciseSmsNotifier_HostAddress = http://localhost:5031
+
+GET {{ExerciseSmsNotifier_HostAddress}}/smsnotifier/
+Accept: application/json
+
+###
